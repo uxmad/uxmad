@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxmad&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uxmad&show_icons=true)
 
 <!---
 uxmad/uxmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
