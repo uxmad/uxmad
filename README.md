@@ -11,9 +11,8 @@ Hi, I am Uxmad from ******. Passionate about pentesting, security checks of web 
 * Enthusiastic about posting projects as a resume :desktop_computer:
 * Love helping people :electric_plug:
 * I like to automate things 🤖
-* I finished working on[BadLocker](https://github.com/uxmad/lock), Cool Loker, with password generation + uid, and logging via telegram on `Windows 10`:keyboard: 
+* I finished working on [BadLocker](https://github.com/uxmad/lock), Cool Loker, with password generation + uid, and logging via telegram on `Windows 10`:keyboard: 
 
-[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=uxmad&repo=lock=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/uxmad/lock)
 
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
