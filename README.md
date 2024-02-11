@@ -6,7 +6,7 @@ Hi, I am Uxmad from ******. Passionate about pentesting, security checks of web 
 
 [telegram-news]: https://t.me/uxbad
   
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/Uxbad) [![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/Uxbad)
 
 * Enthusiastic about posting projects as a resume :desktop_computer:
 * Love helping people :electric_plug:
